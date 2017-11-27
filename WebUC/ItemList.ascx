@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ItemList.ascx.cs" Inherits="WebUC.ItemList" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ItemList.ascx.cs" Inherits="_1685009.WebUC.ItemList" %>
 
 <div class="col-md-8 products-right">
     <div class="products-right-grid">

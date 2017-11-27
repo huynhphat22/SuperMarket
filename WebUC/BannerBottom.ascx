@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="BannerBottom.ascx.cs" Inherits="WebUC.BannerBottom" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="BannerBottom.ascx.cs" Inherits="_1685009.WebUC.BannerBottom" %>
 
 <!--banner-bottom-->
 <div class="ban-bottom-w3l">

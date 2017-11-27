@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Reviews.ascx.cs" Inherits="WebUC.Reviews" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Reviews.ascx.cs" Inherits="_1685009.WebUC.Reviews" %>
 
 <div class="container">
     <h2>Review</h2>

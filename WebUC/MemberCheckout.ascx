@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="MemberCheckout.ascx.cs" Inherits="WebUC.MemberCheckout" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="MemberCheckout.ascx.cs" Inherits="_1685009.WebUC.MemberCheckout" %>
 <%@ Register Src="~/WebUC/MemberAddress.ascx" TagPrefix="uc1" TagName="MemberAddress" %>
 
 

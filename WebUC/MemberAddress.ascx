@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="MemberAddress.ascx.cs" Inherits="WebUC.MemberAddress" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="MemberAddress.ascx.cs" Inherits="_1685009.WebUC.MemberAddress" %>
 
 <asp:HiddenField ID="HiddenFieldUserId" runat="server" />
 <asp:SqlDataSource ID="SqlDataSourceUserAddress" runat="server" ConflictDetection="CompareAllValues" ConnectionString='<%$ ConnectionStrings:ConnectionString %>' 

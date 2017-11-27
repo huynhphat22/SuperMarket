@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="TopOffers.ascx.cs" Inherits="WebUC.TopOffers" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="TopOffers.ascx.cs" Inherits="_1685009.WebUC.TopOffers" %>
 
 <!-- top-brands -->
 <div class="top-brands">

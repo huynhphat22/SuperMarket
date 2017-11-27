@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Carousel.ascx.cs" Inherits="WebUC.Carousel" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Carousel.ascx.cs" Inherits="_1685009.WebUC.Carousel" %>
 
 <!-- Carousel
     ================================================== -->

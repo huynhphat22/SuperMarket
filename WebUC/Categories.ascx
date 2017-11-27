@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Categories.ascx.cs" Inherits="WebUC.Categories" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Categories.ascx.cs" Inherits="_1685009.WebUC.Categories" %>
 
 <div class="categories">
     <h2>Categories</h2>

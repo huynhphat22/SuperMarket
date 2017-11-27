@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="MemberOrders.ascx.cs" Inherits="WebUC.MemberOrders" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="MemberOrders.ascx.cs" Inherits="_1685009.WebUC.MemberOrders" %>
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
     <asp:Repeater ID="RepeaterOrders" runat="server">
