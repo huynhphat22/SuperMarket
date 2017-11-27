@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="MemberSucceed.ascx.cs" Inherits="_1685009.WebUC.MemberSucceed" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="MemberSucceed.ascx.cs" Inherits="WebUC.MemberSucceed" %>
 <%@ Register Src="~/WebUC/MemberAddress.ascx" TagPrefix="uc1" TagName="MemberAddress" %>
 
 <div class="container">

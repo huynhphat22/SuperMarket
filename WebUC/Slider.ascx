@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Slider.ascx.cs" Inherits="_1685009.WebUC.Slider" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Slider.ascx.cs" Inherits="WebUC.Slider" %>
 
 <!-- main-slider -->
 <ul id="demo1">

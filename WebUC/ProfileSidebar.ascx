@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ProfileSidebar.ascx.cs" Inherits="_1685009.WebUC.ProfileSidebar" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ProfileSidebar.ascx.cs" Inherits="WebUC.ProfileSidebar" %>
 
 <div class="profile-sidebar">
     <!-- SIDEBAR USERPIC -->

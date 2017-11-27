@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="NewOffers.ascx.cs" Inherits="_1685009.WebUC.NewOffers" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="NewOffers.ascx.cs" Inherits="WebUC.NewOffers" %>
 
 <!-- new -->
 <asp:SqlDataSource ID="OfferProductsSqlDataSource" runat="server" ConnectionString='<%$ ConnectionStrings:ConnectionString %>' SelectCommand="SELECT TOP 4 [Id], [Name], [Price], [OldPrice], [AverageRating], [ImagePath] FROM [Product] WHERE GETDATE() BETWEEN [StartOfferDatetime] AND [EndOfferDatetime] ORDER BY [StartOfferDatetime] DESC"></asp:SqlDataSource>

@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Navigation.ascx.cs" Inherits="_1685009.WebUC.Navigation" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Navigation.ascx.cs" Inherits="WebUC.Navigation" %>
 
 <!-- navigation -->
 <div class="navigation-agileits">

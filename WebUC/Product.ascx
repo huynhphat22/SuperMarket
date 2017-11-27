@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Product.ascx.cs" Inherits="_1685009.WebUC.Product" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Product.ascx.cs" Inherits="WebUC.Product" %>
 
 <div class="products">
     <div class="container">
